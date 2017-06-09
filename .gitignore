@@ -1,6 +1,0 @@
-*
-
-!.gitignore
-!/hadoop_examples_post
-!/SparkJava8Examples_post
-!README.md
