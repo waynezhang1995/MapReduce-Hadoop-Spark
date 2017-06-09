@@ -55,7 +55,7 @@ public class MovielensGenreAvg extends Configured implements Tool
 		//We assume that the movies.csv file fits in memory.
 		//This call will save the file locally in each machine in the cluster.
 		//CHANGE THIS PATH TO YOUR SPECIFIC LOCATION
-		job.addCacheFile(new URI("/Users/waynezhang/Desktop/Dev/MapReduce-Hadoop-Spark/hadoop_examples_post/movielens/ml-latest-small/movies.csv"));
+		job.addCacheFile(new URI("file:///Users/waynezhang/Desktop/Dev/MapReduce-Hadoop-Spark/hadoop_examples_post/movielens/ml-latest-small/movies.csv"));
 
 		long startTime = System.currentTimeMillis();
 
