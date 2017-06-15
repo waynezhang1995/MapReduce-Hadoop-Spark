@@ -54,6 +54,3 @@ One example is:
 2. If you want to import the sources in Eclipse, use the latest version, Eclipse Neon.
    Then add to the build path all the jars in folder spark-2.1.0-bin-hadoop2.7/jars
 
-3. The partial code for Assignment 3 is in:
-     hadoop_examples_post:    Movielens* files
-     SparkJava8Examples_post: SparkMovielens* files.
