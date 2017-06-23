@@ -1,6 +1,6 @@
 # MapReduce-Hadoop-Spark
 
-## CSC485B Advanced Database Assignment 3
+## CSC485B Advanced Database Assignment 3 & Assignment 4
 
 ### How to run this ?
 Set an enviroment variable:
