@@ -1,7 +1,3 @@
-/**
- * Yuwei (Wayne) Zhang
- * V00805647
- */
 
 import java.io.*;
 import java.util.ArrayList;
